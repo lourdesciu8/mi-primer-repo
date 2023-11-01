@@ -1,0 +1,54 @@
+<!--prologo-->
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE alimentos>
+
+<!--cuerpo-->
+<alimentos>
+    <alimento tipo="legumbres" coccion="cocidos" calorias="1090">garbanzos</alimento>
+    <alimento tipo="legumbres" coccion="estofadas" calorias="690">lentejas</alimento>
+    <alimento tipo="legumbres" coccion="pintas" calorias="285">alubias</alimento>
+    <alimento tipo="legumbres" coccion="secos" calorias="346">guisantes</alimento>
+    <alimento tipo="legumbres" coccion="rehogadas" calorias="100">habas</alimento>
+    <alimento tipo="legumbres" coccion="fabada" calorias="1300">judias</alimento>
+    <alimento tipo="verduras" coccion="blancos" calorias="15">esparragos</alimento>
+    <alimento tipo="verduras" coccion="asados" calorias="55">pimientos</alimento>
+    <alimento tipo="verduras" coccion="parrilla" calorias="28">berenjenas</alimento>
+    <alimento tipo="verduras" coccion="fritos" calorias="71">tomates</alimento>
+    <alimento tipo="verduras" coccion="fritas" calorias="234">patatas</alimento>
+    <alimento tipo="verduras" coccion="fresco" calorias="9">apio</alimento>
+    <alimento tipo="pescados" coccion="fritos" calorias="118">calamares</alimento>
+    <alimento tipo="pescados" coccion="en aceite" calorias="185">anchoas</alimento>
+    <alimento tipo="pescados" coccion="plancha" calorias="92">merluza</alimento>
+    <alimento tipo="pescados" coccion="fresca" calorias="145">sardinas</alimento>
+    <alimento tipo="pescados" coccion="en aceite" calorias="274">atun</alimento>
+    <alimento tipo="pescados" coccion="ahumado" calorias="210">salmon</alimento>
+    <alimento tipo="aperitivos" coccion="fritas" calorias="589">almendras</alimento>
+    <alimento tipo="aperitivos" coccion="rusa" calorias="159">ensaladilla</alimento>
+    <alimento tipo="aperitivos" coccion="caseras" calorias="102">croquetas</alimento>
+    <alimento tipo="aperitivos" coccion="rellenas" calorias="221">aceitunas</alimento>
+    <alimento tipo="aperitivos" coccion="chips" calorias="568">patatas</alimento>
+    <alimento tipo="aperitivos" coccion="cocidas" calorias="102">gambas</alimento>
+    <alimento tipo="frutas" coccion="fresco" calorias="136">aguacate</alimento>
+    <alimento tipo="frutas" coccion="fresco" calorias="84">platano</alimento>
+    <alimento tipo="frutas" coccion="fresco" calorias="58">cerezas</alimento>
+    <alimento tipo="frutas" coccion="fresco" calorias="50">piña</alimento>
+    <alimento tipo="carnes" coccion="escalope" calorias="326">ternera</alimento>
+    <alimento tipo="carnes" coccion="asado" calorias="575">cordero</alimento>
+    <alimento tipo="carnes" coccion="horno" calorias="825">cochinillo</alimento>
+    <alimento tipo="carnes" coccion="asado" calorias="844">cerdo</alimento>
+    <alimento tipo="carnes" coccion="parrilla" calorias="120">pollo</alimento>
+    <alimento tipo="carnes" coccion="asado" calorias="232">pato</alimento>
+    <alimento tipo="bebidas" coccion="ron" calorias="327">cubalibre</alimento>
+    <alimento tipo="bebidas" coccion="negra" calorias="110">cerveza</alimento>
+    <alimento tipo="bebidas" coccion="solo" calorias="499">whiski</alimento>
+    <alimento tipo="bebidas" coccion="tinto" calorias="170">vino</alimento>
+    <alimento tipo="bebidas" coccion="brut" calorias="80">cava</alimento>
+    <alimento tipo="bebidas" coccion="con alcohol" calorias="421">sangria</alimento>
+    <alimento tipo="varios" coccion="carne" calorias="536">raviolis</alimento>
+    <alimento tipo="varios" coccion="pollo" calorias="780">canalones</alimento>
+    <alimento tipo="varios" coccion="con leche" calorias="655">chocolate</alimento>
+    <alimento tipo="varios" coccion="vainilla" calorias="259">helado</alimento>
+    <alimento tipo="varios" coccion="basica" calorias="300">pizza</alimento>
+    <alimento tipo="varios" coccion="blanco" calorias="130">pan</alimento>
+    
+</alimentos>

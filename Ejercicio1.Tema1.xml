@@ -1,0 +1,29 @@
+<!--prologo-->
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Pedido>
+
+<!--cuerpo-->
+<Pedido>
+    <Destinatario>
+        <Nombre>Pedro</Nombre>
+        <Apellidos>Martin Martinez</Apellidos>
+    </Destinatario>
+    
+    <Articulo>
+        <Tipo>Tablet</Tipo>
+        <Marca>Samsung Galaxy</Marca>
+        <Modelo>Tab A8</Modelo>
+    </Articulo>
+
+    <DireccionEntrega>
+        <Calle>Virgen de la Cruz</Calle>
+        <Numero>2</Numero>
+        <Piso>Septimo</Piso>
+        <Letra>A</Letra>
+    </DireccionEntrega>
+
+    <Localidad></Localidad>
+
+    <FechaEntrega>17/10/2022</FechaEntrega>
+
+</Pedido>
