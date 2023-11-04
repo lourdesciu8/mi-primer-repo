@@ -5,20 +5,20 @@
 <!--cuerpo-->
 <Mail>
     <Destinatario>
-        <Nombre></Nombre>
-        <Mail></Mail>
+        <Nombre/>
+        <Mail/>
     </Destinatario>
     
     <Remitente>
-        <Nombre></Nombre>
-        <Mail></Mail>
+        <Nombre/>
+        <Mail/>
     </Remitente>
    
-    <Asunto></Asunto>
+    <Asunto/>
 
     <Texto>
-        <Parrafo></Parrafo>
-        <Etc></Etc>
+        <Parrafo/>
+        <Etc/>
     </Texto>
 
 </Mail>
