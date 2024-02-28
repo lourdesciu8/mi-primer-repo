@@ -1,0 +1,25 @@
+.left-side {
+    flex: 60%;
+    background-color: #8ea6b29c;
+    padding: 20px;
+}
+
+.right-side {
+    flex: 40%;
+    background-color: #8ea6b29c;
+    padding: 20px;
+    text-align: center;
+}
+
+.resumenTrabajadores{
+    background-color: #ffffff;
+    padding: 20px; 
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-style: groove;
+}
+
+.list-group{
+    margin-top: 40px;
+    background-color: #ffffff; 
+}
